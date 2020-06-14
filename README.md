@@ -1,5 +1,5 @@
 # PNE
-Gierka pozbawiona sensu. Stworzona bardzo dawno temu na potrzeby zabawy *Papier, Nożyce, Eukaliptus*.
+Gierka pozbawiona sensu. Stworzona **bardzo dawno temu** na potrzeby zabawy *Papier, Nożyce, Eukaliptus*.
 
 ## Zasady gry
 - Eukaliptus zawsze wygrywa.
