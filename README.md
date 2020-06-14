@@ -1,0 +1,2 @@
+# PNE
+Gierka pozbawiona sensu.
